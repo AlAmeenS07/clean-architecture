@@ -13,7 +13,7 @@ This project is structured to clearly separate:
 
 Perfect for learning scalable backend architecture patterns.
 
----
+----
 
 # 🚀 Features
 
